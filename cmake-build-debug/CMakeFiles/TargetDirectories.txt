@@ -1,0 +1,3 @@
+C:/Users/kevin/Desktop/EE 312/gofish/cmake-build-debug/CMakeFiles/gofish.dir
+C:/Users/kevin/Desktop/EE 312/gofish/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kevin/Desktop/EE 312/gofish/cmake-build-debug/CMakeFiles/rebuild_cache.dir

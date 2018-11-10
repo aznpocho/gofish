@@ -1,0 +1,92 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/kevin/Desktop/EE 312/gofish/card.h
+iostream
+-
+string
+-
+
+C:/Users/kevin/Desktop/EE 312/gofish/deck.cpp
+deck.h
+C:/Users/kevin/Desktop/EE 312/gofish/deck.h
+
+C:/Users/kevin/Desktop/EE 312/gofish/deck.h
+iostream
+-
+vector
+-
+algorithm
+-
+iterator
+-
+card.h
+C:/Users/kevin/Desktop/EE 312/gofish/card.h
+ctime
+-
+cstdlib
+-
+string
+-
+iomanip
+-
+card.h
+C:/Users/kevin/Desktop/EE 312/gofish/card.h
+
+C:/Users/kevin/Desktop/EE 312/gofish/go_fish.cpp
+go_fish.h
+C:/Users/kevin/Desktop/EE 312/gofish/go_fish.h
+iostream
+-
+cstdlib
+-
+fstream
+-
+string
+-
+card.h
+C:/Users/kevin/Desktop/EE 312/gofish/card.h
+player.h
+C:/Users/kevin/Desktop/EE 312/gofish/player.h
+deck.h
+C:/Users/kevin/Desktop/EE 312/gofish/deck.h
+go_fish.h
+C:/Users/kevin/Desktop/EE 312/gofish/go_fish.h
+
+C:/Users/kevin/Desktop/EE 312/gofish/go_fish.h
+iostream
+-
+vector
+-
+algorithm
+-
+iterator
+-
+player.h
+C:/Users/kevin/Desktop/EE 312/gofish/player.h
+ctime
+-
+cstdlib
+-
+string
+-
+
+C:/Users/kevin/Desktop/EE 312/gofish/player.cpp
+player.h
+C:/Users/kevin/Desktop/EE 312/gofish/player.h
+
+C:/Users/kevin/Desktop/EE 312/gofish/player.h
+iostream
+-
+string
+-
+vector
+-
+deck.h
+C:/Users/kevin/Desktop/EE 312/gofish/deck.h
+
